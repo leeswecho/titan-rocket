@@ -1,0 +1,2 @@
+#define RAD_TO_DEG 57.2957795
+#define DEG_TO_RAD 0.0174532925

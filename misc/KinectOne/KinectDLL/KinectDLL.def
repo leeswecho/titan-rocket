@@ -1,0 +1,4 @@
+LIBRARY   KinectDLL
+EXPORTS
+   GetActiveGesture   @1
+   

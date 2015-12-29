@@ -1,0 +1,7 @@
+LIBRARY   TitanXPlanePlugin
+EXPORTS
+   XPluginStart   @1
+   XPluginEnable	@2
+   XPluginDisable	@3
+   XPluginStop	@4
+   XPluginReceiveMessage	@5
