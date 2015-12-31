@@ -3,6 +3,7 @@
 //*******************************************************//
 int cD3D::init()
 {
+
 	D3D =  Direct3DCreate9( D3D_SDK_VERSION);
    if(D3D == NULL)
    {
